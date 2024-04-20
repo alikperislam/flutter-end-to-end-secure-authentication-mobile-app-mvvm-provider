@@ -4,7 +4,7 @@
 It is a mobile application project for end-to-end secure authentication developed with Flutter. It covers authentication, authorization and mail verification processes. RestApi communications contain fully encrypted messages with AES-256 algorithms. The information important for security in the application is stored with dotenv package. For security reasons, hive is preferred as the local database. The data in the hive package is encrypted with AES-256 algorithm. All auth operations of the application are secured with 3D security systems both on the Flutter side and on the backend side. You can safely use all auth codes of this project in your projects.
 
 
-## Ekran Görüntüleri
+## Screenshots of the application
 
 ![1](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/1.jpg)
 ![2](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/2.jpg)
