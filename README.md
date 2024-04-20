@@ -17,6 +17,7 @@ It is a mobile application project for end-to-end secure authentication develope
     <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/8.jpg" alt="8" style="width: 20%;">
     <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/9.jpg" alt="9" style="width: 20%;">
 </div>
+
 ## Technologies used in the project
  - Dart/Flutter
  - flutter_screenutil
