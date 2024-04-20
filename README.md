@@ -6,15 +6,17 @@ It is a mobile application project for end-to-end secure authentication develope
 
 ## Screenshots of the application
 
-![1](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/1.jpg)
-![2](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/2.jpg)
-![3](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/3.jpg)
-![4](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/4.jpg)
-![5](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/5.jpg)
-![6](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/6.jpg)
-![7](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/7.jpg)
-![8](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/8.jpg)
-![9](https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/9.jpg)
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/1.jpg" alt="1" style="width: 20%;">
+    <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/2.jpg" alt="2" style="width: 20%;">
+    <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/3.jpg" alt="3" style="width: 20%;">
+    <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/4.jpg" alt="4" style="width: 20%;">
+    <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/5.jpg" alt="5" style="width: 20%;">
+    <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/6.jpg" alt="6" style="width: 20%;">
+    <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/7.jpg" alt="7" style="width: 20%;">
+    <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/8.jpg" alt="8" style="width: 20%;">
+    <img src="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider/blob/main/screenshots/9.jpg" alt="9" style="width: 20%;">
+</div>
 ## Technologies used in the project
  - Dart/Flutter
  - flutter_screenutil
