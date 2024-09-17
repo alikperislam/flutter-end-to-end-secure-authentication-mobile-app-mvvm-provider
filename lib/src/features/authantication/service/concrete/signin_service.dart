@@ -6,6 +6,7 @@ import 'package:enguide_app/src/features/authantication/service/abstract/i_signi
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
+import '../../../../core/encrypt/data_encrypt.dart';
 
 class SignInService implements ISignInService {
   @override
