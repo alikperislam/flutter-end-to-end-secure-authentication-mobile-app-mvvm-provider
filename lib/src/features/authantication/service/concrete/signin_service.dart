@@ -21,7 +21,9 @@ class SignInService implements ISignInService {
       //
       if (response.statusCode == 200) {
         //? headers
-        final token = response.headers[dotenv.env['SIGN_IN_HEADERS']];
+        final token = await DataEncrypt.wrappingDecrypted(
+          response.headers[dotenv.env['SIGN_IN_HEADERS']],
+        );
         //? body
         final jsonBody = jsonDecode(response.body);
         //? json value
